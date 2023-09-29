@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+#table-1 , .middle{
+    border: 1px solid black;
+    width: 100%;
+    margin-top: 25px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+#t11{
+    text-align: left;
+    border: 1px solid black;
+}
+#t12{
+    text-align: center;
+    border: 1px solid black;
+}
+#t13{
+    text-align: right;
+    border: 1px solid black;
+}
+#t21{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    height: 25px;
+}
+#t31{
+    border: 1px solid black;
+    background-color: green;
+}
+#t32{
+    border: 1px solid black;
+    text-align: center;
+}
+#t33{
+    border: 1px solid black;
+    background-color: blue;
+}
